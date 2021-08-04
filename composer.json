@@ -1,0 +1,13 @@
+{
+    "name": "valer/me",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Valeriy",
+            "email": "valerafilipovich169@gmail.com"
+        }
+    ],
+    "require": {
+        "phpdocumentor/phpdocumentor": "*"
+    }
+}

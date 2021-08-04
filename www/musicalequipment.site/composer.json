@@ -1,0 +1,10 @@
+{
+    "name": "valer/me",
+    "type": "project",
+    "require": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
